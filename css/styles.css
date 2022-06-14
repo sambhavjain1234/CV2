@@ -170,3 +170,8 @@ float: right;
 .tag{
   font-size: 14px;
 }
+.emoji{
+  text-align: center;
+    font-size: 10px;
+    font-style: normal;
+}
